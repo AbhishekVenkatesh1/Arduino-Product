@@ -1,6 +1,6 @@
 # Arduino-Product
 
-Developed a glove with push buttons that play various musical notes when each button is pushed.
+Developed a glove with push buttons that play various musical notes when each button is pushed in order to more effectively teach students solfege.
 
 Used Arduino and a MIDI converter to connect the glove to a laptop.
 
